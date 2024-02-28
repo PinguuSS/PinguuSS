@@ -1,8 +1,8 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+![image](https://github.com/PinguuSS/PinguuSS/assets/69549574/64be8852-e65c-46dd-9474-e7ed39598baf)<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h1>
     <a href="caiofaheina.com.br">
-     <img align="center" alt="Logo Caio Faheina" width="36px" src="https://cdn.discordapp.com/attachments/1209489334886203433/1212218285202997258/blackins.png?ex=65f10941&is=65de9441&hm=8a93c9e1ce02c3559afd355d136f029848406de4710f6e51d1086e25c24670dd&"></a>
+     <img align="center" alt="Logo Caio Faheina" width="36px" src="https://cdn.discordapp.com/attachments/1209489334886203433/1212220714212401192/AT.png?ex=65f10b84&is=65de9684&hm=ac8122fd64b4863f010b4b256dae237b522e6c16ed30c6ce0aef60bb9c1114f4&"></a>
     <span>Caio Faheina</span>
 </h1>
 
