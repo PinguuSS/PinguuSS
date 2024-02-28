@@ -6,7 +6,7 @@
     <span>Caio Faheina</span>
 </h1>
 
-<p align="justify">Java Developer from Fortaleza-CE, currently studying Information Systems at Uni7 University Center. Passionate about cars, kinda of military aviation enjoyer, and a decent but generic musician, the full package for some, the worst for others. 
+<p align="justify">Java Developer from Fortaleza-CE, currently studying Information Systems at Uni7 University Center. Passionate about cars, kind of military aviation enjoyer, and a decent but generic musician, the full package for some, the worst for others. 
 <br>
  Passionate about cars and technology, some of my hobbies are games, watching, music, and gym. <a href="https://www.instagram.com/caio_faheina/">(@caio_faheina)</a>.</p>
 <!--
