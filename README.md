@@ -1,4 +1,4 @@
-![image](https://github.com/PinguuSS/PinguuSS/assets/69549574/64be8852-e65c-46dd-9474-e7ed39598baf)<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h1>
     <a href="caiofaheina.com.br">
