@@ -2,7 +2,7 @@
 
 <h1>
     <a href="caiofaheina.com.br">
-     <img align="center" alt="Logo Caio Faheina" width="36px" src="https://avatars.githubusercontent.com/u/69549574?v=4"></a>
+     <img align="center" alt="Logo Caio Faheina" width="36px" src="https://cdn.discordapp.com/attachments/1209489334886203433/1212218285202997258/blackins.png?ex=65f10941&is=65de9441&hm=8a93c9e1ce02c3559afd355d136f029848406de4710f6e51d1086e25c24670dd&"></a>
     <span>Caio Faheina</span>
 </h1>
 
