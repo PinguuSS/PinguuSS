@@ -2,13 +2,13 @@
 
 <h1>
     <a href="caiofaheina.com.br">
-     <img align="center" alt="Logo Caio Faheina" width="36px" src="https://cdn.discordapp.com/attachments/1209489334886203433/1212220714212401192/AT.png?ex=65f10b84&is=65de9684&hm=ac8122fd64b4863f010b4b256dae237b522e6c16ed30c6ce0aef60bb9c1114f4&"></a>
+     <img align="center" alt="Logo Caio Faheina" width="36px" src="https://cdn.discordapp.com/attachments/666688447339298847/1279620175078883399/AT.png?ex=66d51aa7&is=66d3c927&hm=9c80dfa03b7cf8f66dd97859d4c7741924c02c4bb374618cedde2dde67fc1fe2&"></a>
     <span>Caio Faheina</span>
 </h1>
 
-<p align="justify">Java Developer from Fortaleza-CE, currently studying Information Systems at Uni7 University Center. Passionate about cars, kind of military aviation enjoyer, and a decent but generic musician, the full package for some, the worst for others. 
+<p align="justify">Java Developer from Fortaleza-CE, currently studying Information Systems at Uni7 University Center. Passionate about cars, technology, and a decent but generic musician, the full package for some, the worst for others. 
 <br>
- Passionate about cars and technology, some of my hobbies are games, watching, music, and gym. <a href="https://www.instagram.com/caio_faheina/">(@caio_faheina)</a>.</p>
+ Some of my hobbies are games, watching, music, and gym. <a href="https://www.instagram.com/caio_faheina/">(@caio_faheina)</a>.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=720FF9)](caiofaheina.com.br)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](caiofaheina.com.br)
