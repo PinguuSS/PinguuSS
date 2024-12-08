@@ -2,7 +2,7 @@
 
 <h1>
     <a href="caiofaheina.com.br">
-     <img align="center" alt="Logo Caio Faheina" width="36px" src="https://w7.pngwing.com/pngs/70/365/png-transparent-computer-icons-web-development-computer-programming-lorm-ipsum.png"></a>
+     <img align="center" alt="Logo Caio Faheina" width="36px" src="https://w7.pngwing.com/pngs/626/722/png-transparent-microsoft-visual-studio-net-framework-visual-studio-code-visual-programming-language-microsoft-purple-angle-studio-thumbnail.png"></a>
     <span>Caio Faheina</span>
 </h1>
 
