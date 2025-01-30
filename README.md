@@ -2,7 +2,7 @@
 
 <h1>
     <a href="caiofaheina.com.br">
-     <img align="center" alt="Logo Caio Faheina" width="36px" src="https://drive.google.com/file/d/1eZEZKXWsZlFWFhkik1e__JSRNxgw3RRN/view?usp=sharing"></a>
+     <img align="center" alt="Logo Caio Faheina" width="36px" src="https://i.pinimg.com/474x/db/4c/a4/db4ca42b8edf052f9761f6f48a49d720.jpg"></a>
     <span>Caio Faheina</span>
 </h1>
 
