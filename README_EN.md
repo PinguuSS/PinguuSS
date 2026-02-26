@@ -80,9 +80,9 @@
 ### &nbsp; GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PinguuSS&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=7C3AED&icon_color=7C3AED&title_color=7C3AED&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PinguuSS&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=7C3AED&icon_color=7C3AED&title_color=7C3AED&text_color=c9d1d9"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinguuSS&layout=compact&langs_count=8&bg_color=0d1117&border_color=7C3AED&title_color=7C3AED&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PinguuSS&layout=compact&langs_count=8&bg_color=0d1117&border_color=7C3AED&title_color=7C3AED&text_color=c9d1d9"/>
 </div>
 
 <br>
@@ -109,7 +109,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake.svg" />
+    <img alt="" src="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake.svg" />
   </picture>
 </div>
 
