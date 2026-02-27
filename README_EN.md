@@ -81,10 +81,10 @@
 
 ---
 
-### &nbsp; GitHub Stats
+### &nbsp; GitHub Stats 2026
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PinguuSS&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=7C3AED&icon_color=7C3AED&title_color=7C3AED&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PinguuSS&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%202026&bg_color=0d1117&border_color=7C3AED&icon_color=7C3AED&title_color=7C3AED&text_color=c9d1d9"/>
   &nbsp;
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PinguuSS&layout=compact&langs_count=8&bg_color=0d1117&border_color=7C3AED&title_color=7C3AED&text_color=c9d1d9"/>
 </div>
