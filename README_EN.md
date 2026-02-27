@@ -31,7 +31,7 @@
 
 ### &nbsp; About Me
 
-- 🎓 &nbsp; Studying **Computer Science** at **Uninorte** (transferred from Uni7, where I completed half of the Information Systems program)
+- 🎓 &nbsp; Studying **Computer Science** at **Uninorte** (transferred from Uni7, where I completed half of Information Systems)
 - 💼 &nbsp; IT Analyst & Junior Developer
 - 📍 &nbsp; Fortaleza, CE - Brazil
 - 🌐 &nbsp; [caiofaheina.netlify.app](https://caiofaheina.netlify.app/)
