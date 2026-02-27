@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Caio+Faheina+%F0%9F%91%8B;Analista+de+TI+%26+Desenvolvedor+J%C3%BAnior;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Caio+Faheina+%F0%9F%91%8B;Analista+%26+Desenvolvedor+J%C3%BAnior;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <a href="https://caiofaheina.netlify.app/">
   <img src="https://img.shields.io/badge/-Portf%C3%B3lio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
@@ -58,6 +58,7 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -72,6 +73,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -100,16 +104,10 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PinguuSS&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=15"/>
-</div>
-
----
-
-<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake.svg" />
-    <img alt="" src="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake-dark.svg?v=3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake.svg?v=3" />
+    <img alt="" src="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake.svg?v=3" />
   </picture>
 </div>
 
