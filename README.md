@@ -1,7 +1,7 @@
 <div align="center">
 
-[![Português](https://img.shields.io/badge/Português-7C3AED?style=for-the-badge&logo=googletranslate&logoColor=white)](./README.md)
-[![English](https://img.shields.io/badge/English-555?style=for-the-badge&logo=googletranslate&logoColor=white)](./README_EN.md)
+[![English](https://img.shields.io/badge/English-7C3AED?style=for-the-badge&logo=googletranslate&logoColor=white)](./README.md)
+[![Português](https://img.shields.io/badge/Português-555?style=for-the-badge&logo=googletranslate&logoColor=white)](./README_PT.md)
 
 </div>
 
@@ -9,13 +9,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Caio+Faheina+%F0%9F%91%8B;Analista+%26+Desenvolvedor+J%C3%BAnior;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Caio+Faheina;Junior+Analyst+at+A%C3%A7o+Manaus;Computer+Science+Student;Full+Stack+Development+%26+Automation)](https://git.io/typing-svg)
 
 <a href="https://caiofaheina.netlify.app/">
-  <img src="https://img.shields.io/badge/-Portf%C3%B3lio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
+  <img src="https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/caio-faheina-ba549a202/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="mailto:caiofaheina@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://x.com/Pingukkj">
   <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
@@ -23,19 +23,20 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PinguuSS&color=7C3AED&style=flat-square&label=Visitantes+do+Perfil" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=PinguuSS&color=7C3AED&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
 ---
 
-### &nbsp; Sobre Mim
+### &nbsp; About Me
 
-- 🎓 &nbsp; Cursando **Ciência da Computação** na **Uninorte** (transferido da Uni7, onde completei metade do curso de Sistemas de Informação)
-- 💼 &nbsp; Analista & Desenvolvedor Júnior
-- 📍 &nbsp; Fortaleza, CE - Brasil
-- 🌐 &nbsp; [caiofaheina.netlify.app](https://caiofaheina.netlify.app/)
-- 🎮 &nbsp; Apaixonado por tecnologia, games, música e academia
+- Currently working as a **Junior Analyst at Aço Manaus**, focused on internal systems, operational support, reports, and process improvements.
+- Studying **Computer Science at Uninorte** in the **5th semester**, after transferring from Uni7.
+- Building experience across **PHP, JavaScript, Vue, Java, SQL Server, MySQL, automation, and technical support**.
+- I like working close to real business problems: understanding the workflow, simplifying routines, and delivering tools that people can actually use.
+- Portfolio: [caiofaheina.netlify.app](https://caiofaheina.netlify.app/)
+- Contact: [caiofaheina@gmail.com](mailto:caiofaheina@gmail.com)
 
 ---
 
@@ -43,7 +44,7 @@
 
 <div align="center">
 
-#### Linguagens
+#### Languages
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -52,7 +53,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Frameworks & Bibliotecas
+#### Frameworks & Libraries
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -62,13 +63,13 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### Bancos de Dados
+#### Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Ferramentas
+#### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -105,9 +106,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake-dark.svg?v=4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake.svg?v=4" />
-    <img alt="" src="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake.svg?v=4" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake-dark.svg?v=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake.svg?v=5" />
+    <img alt="" src="https://raw.githubusercontent.com/PinguuSS/PinguuSS/output/github-snake.svg?v=5" />
   </picture>
 </div>
 
