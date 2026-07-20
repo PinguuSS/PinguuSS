@@ -1,12 +1,12 @@
 <div align="center">
 
-<pre>
-   _~_
-  (o o)
- /  V  \
-/(  _  )\
-  ^^ ^^
-</pre>
+<samp>
+&nbsp;&nbsp;&nbsp;_~_<br>
+&nbsp;&nbsp;(o o)<br>
+&nbsp;/&nbsp;&nbsp;V&nbsp;&nbsp;\<br>
+/(&nbsp;&nbsp;_&nbsp;&nbsp;)\<br>
+&nbsp;&nbsp;^^ ^^
+</samp>
 
 # Caio Faheina
 
