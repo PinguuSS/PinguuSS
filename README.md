@@ -1,17 +1,25 @@
 <div align="center">
 
 <pre>
-    .---.
-   /     \
-   \.@-@./
-   /`\_/`\
-  //  _  \\
- | \     )|_
-/`\_`>  <_/ \
-   \__/'---'\__/
+       _nnnn_
+      dGGGGMMb
+     @p~qp~~qMb
+     M|@||@) M|
+     @,----.JM|
+    JS^\__/  qKL
+   dZP        qKRb
+  dZP          qKKb
+ fZP            SMMb
+ HZM            MMMM
+ FqM            MMMM
+__| ".        |\dS"qML
+|    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMP|   .'
+     `-'       `--'
 </pre>
 
-<!-- Little Linux Penguin by Joan G. Stark (jgs), via ASCII Art Archive. -->
+<!-- Tux ASCII art by Harry Mason (Hajoma), via ASCII Art Archive. -->
 
 # Caio Faheina
 
