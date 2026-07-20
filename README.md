@@ -1,15 +1,15 @@
 <div align="center">
 
-<samp>
-&nbsp;&nbsp;&nbsp;&nbsp;.---.<br>
-&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#92;<br>
-&nbsp;&nbsp;&nbsp;&#92;.@-@./<br>
-&nbsp;&nbsp;&nbsp;/&#96;&#92;_/&#96;&#92;<br>
-&nbsp;&nbsp;//&nbsp;&nbsp;_&nbsp;&nbsp;&#92;&#92;<br>
-&nbsp;|&nbsp;&#92;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)|_<br>
-/&#96;&#92;_&#96;&gt;&nbsp;&nbsp;&lt;_/&nbsp;&#92;<br>
-&nbsp;&nbsp;&nbsp;&#92;__/'---'&#92;__/
-</samp>
+<pre>
+    .---.
+   /     \
+   \.@-@./
+   /`\_/`\
+  //  _  \\
+ | \     )|_
+/`\_`>  <_/ \
+   \__/'---'\__/
+</pre>
 
 <!-- Little Linux Penguin by Joan G. Stark (jgs), via ASCII Art Archive. -->
 
@@ -45,8 +45,6 @@ Interested in reliable software, process improvement, and useful open source.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" height="28" alt="Docker" title="Docker">
 </p>
-
-`JavaScript` · `React` · `Vue.js` · `PHP` · `Laravel` · `Java` · `Spring` · `SQL` · `Docker`
 
 ### Selected work
 
