@@ -15,7 +15,7 @@
 
 # Caio Faheina
 
-**Computer Science student · Junior Analyst · Full-stack Developer**
+**CS student · Junior Analyst · Full-stack Developer**
 
 I build automations and web systems that simplify real workflows.<br>
 Interested in reliable software, process improvement, and useful open source.
@@ -28,6 +28,8 @@ Interested in reliable software, process improvement, and useful open source.
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" title="JavaScript">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React" title="React">
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28" height="28" alt="Vue.js" title="Vue.js">
   &nbsp;
@@ -44,11 +46,11 @@ Interested in reliable software, process improvement, and useful open source.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" height="28" alt="Docker" title="Docker">
 </p>
 
-`JavaScript` · `Vue.js` · `PHP` · `Laravel` · `Java` · `Spring` · `SQL` · `Docker`
+`JavaScript` · `React` · `Vue.js` · `PHP` · `Laravel` · `Java` · `Spring` · `SQL` · `Docker`
 
 ### Selected work
 
-- Contributor to [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux), helping bring the Codex desktop experience to Linux.
+- Contributing to open-source projects and exploring better Linux developer tooling.
 - Building practical full-stack projects and automations around real operational needs.
 - Studying Computer Science at Uninorte and turning coursework into working software.
 
