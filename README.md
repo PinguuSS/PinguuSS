@@ -1,14 +1,17 @@
 <div align="center">
 
 <samp>
-&nbsp;&nbsp;&nbsp;.--.<br>
-&nbsp;&nbsp;|o_o |<br>
-&nbsp;&nbsp;|:_/ |<br>
-&nbsp;//&nbsp;&nbsp;&nbsp;\&nbsp;\<br>
-(|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| )<br>
-/'\_&nbsp;&nbsp;&nbsp;_/&#96;\<br>
-\___)=(___/
+&nbsp;&nbsp;&nbsp;&nbsp;.---.<br>
+&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#92;<br>
+&nbsp;&nbsp;&nbsp;&#92;.@-@./<br>
+&nbsp;&nbsp;&nbsp;/&#96;&#92;_/&#96;&#92;<br>
+&nbsp;&nbsp;//&nbsp;&nbsp;_&nbsp;&nbsp;&#92;&#92;<br>
+&nbsp;|&nbsp;&#92;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)|_<br>
+/&#96;&#92;_&#96;&gt;&nbsp;&nbsp;&lt;_/&nbsp;&#92;<br>
+&nbsp;&nbsp;&nbsp;&#92;__/'---'&#92;__/
 </samp>
+
+<!-- Little Linux Penguin by Joan G. Stark (jgs), via ASCII Art Archive. -->
 
 # Caio Faheina
 
