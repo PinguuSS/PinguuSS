@@ -56,7 +56,7 @@ Interested in reliable software, process improvement, and useful open source.
 
 ### Selected work
 
-- Contributing to open-source projects and exploring better Linux developer tooling.
+- Interested in systems integration, developer tooling, and software that improves day-to-day operations.
 - Building practical full-stack projects and automations around real operational needs.
 - Studying Computer Science at Uninorte and turning coursework into working software.
 
