@@ -62,4 +62,4 @@ Interested in reliable software, process improvement, and useful open source.
 
 ### Elsewhere
 
-[Portfolio](https://caiofaheina.com.br/) · [Email](mailto:caiofaheina@gmail.com)
+[Portfolio](https://caiofaheina.com.br/) · [LinkedIn](https://www.linkedin.com/in/caio-faheina-ba549a202/) · [Email](mailto:caiofaheina@gmail.com)
