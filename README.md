@@ -23,7 +23,7 @@ _)      \.___.,|     .'
 
 # Caio Faheina
 
-**CS student · Junior Analyst · Full-stack Developer**
+**CS student · 6th semester · Junior Analyst · Full-stack Developer**
 
 I build automations and web systems that simplify real workflows.<br>
 Interested in reliable software, process improvement, and useful open source.
@@ -62,4 +62,4 @@ Interested in reliable software, process improvement, and useful open source.
 
 ### Elsewhere
 
-[Portfolio](https://caiofaheina.com.br/) · [Source](https://github.com/PinguuSS/portfolio) · [Email](mailto:caiofaheina@gmail.com)
+[Portfolio](https://caiofaheina.com.br/) · [Email](mailto:caiofaheina@gmail.com)
