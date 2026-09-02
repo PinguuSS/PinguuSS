@@ -39,7 +39,7 @@ Interested in reliable software, process improvement, and useful open source.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="28" height="28" alt="Go" title="Go">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" width="28" height="28" alt="Gin" title="Gin">
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="28" height="28" alt="Gin" title="Gin">
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" title="JavaScript">
   &nbsp;
