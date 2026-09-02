@@ -35,6 +35,12 @@ Interested in reliable software, process improvement, and useful open source.
 ### Core stack
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="28" height="28" alt="Laravel" title="Laravel">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="28" height="28" alt="Go" title="Go">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" width="28" height="28" alt="Gin" title="Gin">
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" title="JavaScript">
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React" title="React">
@@ -42,8 +48,6 @@ Interested in reliable software, process improvement, and useful open source.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28" height="28" alt="Vue.js" title="Vue.js">
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" height="28" alt="PHP" title="PHP">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="28" height="28" alt="Laravel" title="Laravel">
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java" title="Java">
   &nbsp;
